@@ -6,7 +6,7 @@
 ### 2. Android, Linux and Mac
 ###  Multi-platform IP peer WARP optimization + unlimited generation of WARP-Wireguard configurations.
 
-1. Copy the [Config file] to an editor.
+1. Copy the [Config file](WarpAnWarp-/TwoWarp+_endip.json) to an editor.
 
 2. Run the below command in the termux(Android Shell), linux or mac.The command for finding the clean IP/Ports is from Warp Cloudflare.
 ```
